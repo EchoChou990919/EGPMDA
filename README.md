@@ -19,8 +19,8 @@
         ├─ mRNA
             └─ HGNC         # raw data from HGNC
         ├─ README.md        # more details about how to get raw data
-        ├─ biobert-pytorch  # please clone BioBERT* here
-        ├─ our_data         # our processed data, please download and unzip from My Drive*
+        ├─ biobert-pytorch  # attention, please clone BioBERT* here
+        ├─ our_data         # attention, our processed data, please download and unzip from My Drive*
             └─ ...
         ├─ dataset_construction.ipynb   # codes of the dataset construction
         └─ preprocessing.ipynb          # codes of the data preprocessing
@@ -28,9 +28,9 @@
         ├─ case_study       # prediction results and attention values (extracted while running)
         ├─ figures
         └─ models           # trained models
-    ├─ main.py      # settings, training and evaluation
-    ├─ model.py     # our EGPMDA
-    ├─ utils.py     # functions utilized in the training and evaluation process
+    ├─ main.py          # settings, training and evaluation
+    ├─ model.py         # our EGPMDA
+    ├─ utils.py         # functions utilized in the training and evaluation process
     ├─ analysis_and_case_study.ipynb    # codes of result analysis and explanation
     ├─ hgt_conv_case_study.py           # modified torch_geometric.nn.HGTConv for exlanation
     ├─ similarity_utils.py
