@@ -1,4 +1,4 @@
-# Generalizable prediction of potential miRNA-disease associations based on heterogeneous graph learning
+# Generalizable and explainable prediction of potential miRNA-disease associations based on heterogeneous graph learning
 
 ![EGPMDA](files/figures/fig3.jpg)
 
